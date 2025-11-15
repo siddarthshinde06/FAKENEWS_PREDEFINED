@@ -24,8 +24,8 @@ This web app allows users to input any news headline or paragraph and instantly 
 
 🚀 How to Run the Project
 1. Clone the repository
-git clone https://github.com/your-username/fake-news-detection.git
-cd fake-news-detection
+git clone https://github.com/siddarthshinde06/FAKENEWS_PREDEFINED.git
+cd FAKENEWS_PREDEFINED
 
 2. Run the Flask app
 python app.py

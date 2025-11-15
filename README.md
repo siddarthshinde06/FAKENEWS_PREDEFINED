@@ -19,12 +19,19 @@ This web app allows users to input any news headline or paragraph and instantly 
 📁 Project Structure
 .
 ├── app.py
+
 ├── vectorizer.jb
+
 ├── lr_model.jb
+
 ├── templates/
+
 │   └── index.html
+
 ├── static/
+
 │   └── style.css
+
 └── README.md
 
 🚀 How to Run the Project

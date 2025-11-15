@@ -23,14 +23,16 @@ This web app allows users to input any news headline or paragraph and instantly 
 └── README.md
 
 🚀 How to Run the Project
+
 1. Clone the repository
 git clone https://github.com/siddarthshinde06/FAKENEWS_PREDEFINED.git
 cd FAKENEWS_PREDEFINED
 
 2. Run the Flask app
+   
 python app.py
 
-3. Open the App
+4. Open the App
 
 Go to:
 👉 http://127.0.0.1:5000/
@@ -45,6 +47,7 @@ Real News → Green color
 Fake News → Red color
 
 🖥 How It Works
+
 User enters news text
 Text is transformed using TF-IDF (vectorizer.jb)
 Logistic Regression (lr_model.jb) predicts the label
@@ -63,13 +66,16 @@ Scikit-learn
 Joblib
 
 📌 Future Improvements
+
 Add BERT model
 Add API version
 Add database logging
 Improve UI with animations
 
 🤝 Contributing
+
 Pull requests are welcome!
 
 📜 License
+
 This project is open-source and free to use.

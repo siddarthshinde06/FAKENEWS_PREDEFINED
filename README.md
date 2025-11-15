@@ -5,10 +5,15 @@ This web app allows users to input any news headline or paragraph and instantly 
 📌 Features
 
 🔍 Detect whether a news statement is Real or Fake
+
 🧠 Machine Learning model (Logistic Regression)
+
 📝 TF-IDF text vectorizer
+
 🌐 Simple Flask web UI
+
 🎨 Customizable frontend (CSS friendly)
+
 ⚡ Lightweight and easy to deploy
 
 📁 Project Structure
@@ -40,17 +45,25 @@ Go to:
 🧠 Model Details
 
 Algorithm: Logistic Regression
+
 Vectorizer: TF-IDF
+
 Training Data: Fake vs Real news dataset
+
 Prediction Output:
+
 Real News → Green color
+
 Fake News → Red color
 
 🖥 How It Works
 
 User enters news text
+
 Text is transformed using TF-IDF (vectorizer.jb)
+
 Logistic Regression (lr_model.jb) predicts the label
+
 Output is shown on the webpage
 
 📸 Screenshots
@@ -60,16 +73,23 @@ Add screenshots of your UI here after you upload the project.
 🛠 Technologies Used
 
 Python
+
 Flask
+
 HTML / CSS
+
 Scikit-learn
+
 Joblib
 
 📌 Future Improvements
 
 Add BERT model
+
 Add API version
+
 Add database logging
+
 Improve UI with animations
 
 🤝 Contributing
